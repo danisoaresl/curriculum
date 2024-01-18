@@ -1,2 +1,3 @@
 # curriculoDaniele
-exercício Elas na Tech
+
+# exercício Elas na Tech
